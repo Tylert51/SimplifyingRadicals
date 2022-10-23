@@ -1,7 +1,7 @@
 public class Radical {
-    int perfectSquare;
-    int radical;
-    int number;
+    private int perfectSquare;
+    private int radical;
+    private int number;
 
     public Radical (int number) {
         this.number = number;
